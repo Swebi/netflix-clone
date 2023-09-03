@@ -10,6 +10,7 @@ function redfunction()
         document.getElementById("email").style.borderColor = 'black black #e87c03 black';
         document.getElementById("pwd").style.borderColor = 'black black #e87c03 black';
 
+        setTimeout("location.href = 'login.html';",3000);
 
 
 }
