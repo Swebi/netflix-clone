@@ -18,7 +18,7 @@
  
  .btn{
      color:#8c8c8c;
-     background-color:black;
+     background-color: #141414;
      font-size: 23px;
 
      
@@ -37,7 +37,7 @@
 
  .btn:hover{
     color: white;
-    background-color:black;
+    background-color: #141414;
     
     border-color: white;
  }
@@ -63,6 +63,7 @@
 
  .row.a{
     margin-top: 50px;
+    
  }
 
  .row.flex-nowrap{
