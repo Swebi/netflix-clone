@@ -189,5 +189,6 @@
 }
 
 .dropdown-menu a:hover {
-    background-color: #fff
+    background-color: blue;
+    color:white;
 }

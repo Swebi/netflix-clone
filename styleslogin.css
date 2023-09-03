@@ -29,7 +29,7 @@
  }
  
  .btn{
-    color:#8c8c8c;
+     color:#8c8c8c;
      background-color:black;
      font-size: 23px;
 
@@ -46,9 +46,10 @@
      margin-top:45px;
  }
 
- .btn:hover {
-    background-color:black; /* Green */
+ .btn:hover{
     color: white;
+    background-color:black;
+    
     border-color: white;
  }
  
@@ -105,6 +106,3 @@
 
 
 
-
-
-*/
