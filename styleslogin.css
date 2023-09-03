@@ -1,33 +1,20 @@
 
-
 .back{
     background-color: #141414;
 
  
  }
 
- .mainbox{
-     width: 100%;
-     height: 50%;
 
-     border-style: solid;
-     border-color: white;
-     border-width: 0px;
  
-     padding: 50px;
-     padding-left: 400px;
-     padding-right:400px;
-     
-     margin: auto;
-     margin-top: 180px;
 
-     background-color: #141414;; 
-     /* To Give bg color with opacity without affecting child elements use rgba */
-  
-     
-     font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
- 
+ .container-fluid{
+    margin-top:12%;
+    padding-left: 20%;
+    padding-right: 20%;
+    background-color: #141414;;
  }
+ 
  
  .btn{
      color:#8c8c8c;
@@ -43,7 +30,8 @@
 
      width:238px;
      height:51px;
-     margin-left:15px;
+     margin-left:10%;
+     margin-right:10%;
      margin-top:45px;
  }
 
@@ -76,34 +64,11 @@
  .row.a{
     margin-top: 50px;
  }
+
+ .row.flex-nowrap{
+    margin-top: 50px;
+ }
  
 .col{
     text-align: center;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
