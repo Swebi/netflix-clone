@@ -1,14 +1,15 @@
 
 
 .back{
-    background-image:url("https://repository-images.githubusercontent.com/299409710/b42f7780-0fe1-11eb-8460-e459acd20fb4");
+   /* background-image:url("https://repository-images.githubusercontent.com/299409710/b42f7780-0fe1-11eb-8460-e459acd20fb4"); */
+   background-image: url("back.jpg");
 
 
 .navbar.ms-3{
     height:110px;
     padding:0px;
-    margin:0px
-
+    margin-top:-20px;
+    
 
 
 }
@@ -18,7 +19,7 @@
 
     padding: 50px;
     margin: auto;
-    background-color: rgba(0,0,0,0.7); 
+    background-color: rgba(0,0,0,0.8); 
     /* To Give bg color with opacity without affecting child elements use rgba */
  
     
@@ -134,14 +135,14 @@
 .footerbox{
     width: 100%;
     height: 265px;
-    background-color: rgba(0,0,0,0.7); 
+    background-color: rgba(0,0,0,0.8); 
 
     margin: auto;
     margin-top:90px;
 
-    padding-top:40px;
-    padding-left:420px;
-    padding-right:420px;
+    padding-top:30px;
+    padding-left:280px;
+    padding-right:280px;
     padding-bottom:50px;
 
 }
@@ -189,5 +190,3 @@
 }
 
 .dropdown-menu a:hover {background-color: #fff}
-
-
