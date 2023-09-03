@@ -1,0 +1,110 @@
+
+
+.back{
+    background-color: #141414;
+
+ 
+ }
+
+ .mainbox{
+     width: 65%;
+     height: 50%;
+
+     border-style: solid;
+     border-color: white;
+     border-width: 0px;
+ 
+     padding: 50px;
+     padding-left: 60px;
+     
+     margin: auto;
+     margin-top: 180px;
+
+     background-color: rgba(0,0,0,0.8); 
+     /* To Give bg color with opacity without affecting child elements use rgba */
+  
+     
+     font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+ 
+ }
+ 
+ .btn{
+    color:#8c8c8c;
+     background-color:black;
+     font-size: 23px;
+
+     
+     border-style: solid;
+     border-color: #8c8c8c;
+     border-width: 1px;
+     border-radius: 2px;
+
+
+     width:238px;
+     height:51px;
+     margin-left:15px;
+     margin-top:45px;
+ }
+
+ .btn:hover {
+    background-color:black; /* Green */
+    color: white;
+    border-color: white;
+ }
+ 
+ #signin{
+     font-size:65px;
+     font-weight:700px;
+     text-align: center;
+ }
+ 
+ 
+ 
+ #pfp{
+     border-radius: 8px;
+ }
+
+ #user{
+    color:#8c8c8c;
+    margin-top:20px;
+    font-size:25px;
+ }
+
+
+ .row.a{
+    margin-top: 50px;
+ }
+ 
+.col{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
