@@ -41,9 +41,18 @@
 
 #email{
     margin-top:30px;
+    margin-bottom:5px;
+
+}
+
+#emailtext{
+    font-size:13px;
+    color:#e87c03;
     margin-bottom:15px;
 
 }
+
+
 
 .email{
     color:#8c8c8c;
@@ -53,8 +62,15 @@
 }
 
 #pwd{
-    margin-bottom:40px;
+    margin-bottom:5px;
 
+
+}
+
+#pwdtext{
+    font-size:13px;
+    color:#e87c03;
+    margin-bottom:45px;
 
 }
 
