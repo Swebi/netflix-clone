@@ -1,4 +1,5 @@
-# nscc_srm
+# Netflix Clone
+
 Netflix login page clone task for NSCC SRM
 
 Website Link - https://swebi.github.io/nscc_srm/
